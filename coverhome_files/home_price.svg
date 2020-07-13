@@ -1,0 +1,15 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 66 66" xml:space="preserve"><style>.st0{stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.st0,.st1,.st2{fill:none;stroke:#51caee}.st1{stroke-width:2;stroke-linejoin:round}.st2{stroke-miterlimit:10}</style>
+    <path class="st0" d="M15 1h22v8H15z"/>
+    <path class="st1" d="M51 65H1V5h13.5M37 5h14v32"/>
+    <circle class="st0" cx="15" cy="25" r="4"/>
+    <circle class="st2" cx="15" cy="25" r=".5"/>
+    <path class="st0" d="M23 25h18"/>
+    <circle class="st0" cx="15" cy="37" r="4"/>
+    <path class="st0" d="M23 37h18"/>
+    <circle class="st0" cx="15" cy="49" r="4"/>
+    <circle class="st2" cx="15" cy="49" r=".5"/>
+    <path class="st0" d="M23 49h18"/>
+    <circle cx="51" cy="51" r="14" fill="#fff" stroke="#51caee" stroke-width="2" stroke-linejoin="round"/>
+    <path class="st0" d="M51 43v16"/>
+    <g><path class="st0" d="M52 51h-3a3 3 0 010-6h6M50 51h3a3 3 0 010 6h-6"/></g>
+</svg>
